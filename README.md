@@ -1,2 +1,1 @@
-# scalan-hello
-Scala Native - Hello World
+# Scala Native - Hello World
